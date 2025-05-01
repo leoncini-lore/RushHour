@@ -13,11 +13,15 @@ Cars can only move forward or backward (no turning).
 
 Cars are restricted to their lanes (horizontal or vertical).
 
+
 🌐 Live Demo
+
 You can play the game online here:
 ➡️ RushHour.infinityfreeapp.com
 
+
 📂 Features
+
 Interactive, use the arrow keys to move the cars.
 
 Multiple levels of difficulty (easy to hard).
@@ -26,6 +30,7 @@ Simple, clean design to keep the focus on the puzzle.
 
 
 🛠️ Built With
+
 HTML5
 
 CSS3
