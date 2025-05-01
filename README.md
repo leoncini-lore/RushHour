@@ -2,7 +2,9 @@
 Welcome to Rush Hour, a web-based version of the classic sliding block puzzle game! The goal is simple: move the cars around to free the red car and get it out of the traffic jam.
 
 🕹️ How to Play
-Objective: Move the red car to the exit.
+Objective: 
+
+Move the red car to the exit.
 
 Rules:
 
