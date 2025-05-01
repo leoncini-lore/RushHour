@@ -5,36 +5,35 @@ Welcome to Rush Hour, a web-based version of the classic sliding block puzzle ga
 
 Objective: 
 
-Move the red car to the exit.
+  Move the red car to the exit.
 
 Rules:
 
-Cars can only move forward or backward (no turning).
+  Cars can only move forward or backward (no turning).
 
-Cars are restricted to their lanes (horizontal or vertical).
+  Cars are restricted to their lanes (horizontal or vertical).
 
 
 🌐 Live Demo
 
-You can play the game online here:
-➡️ RushHour.infinityfreeapp.com
-
+  You can play the game online here:➡️ RushHour.infinityfreeapp.com
+  
 
 📂 Features
 
-Interactive, use the arrow keys to move the cars.
+  Interactive, use the arrow keys to move the cars.
 
-Multiple levels of difficulty (easy to hard).
+  Multiple levels of difficulty (easy to hard).
 
-Simple, clean design to keep the focus on the puzzle.
+  Simple, clean design to keep the focus on the puzzle.
 
 
 🛠️ Built With
 
-HTML5
+  HTML5
 
-CSS3
+  CSS3
 
-JavaScript
+  JavaScript
 
 PHP + MySQL for backend features
