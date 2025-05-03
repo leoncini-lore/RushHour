@@ -13,12 +13,6 @@ Rules:
 
   Cars are restricted to their lanes (horizontal or vertical).
 
-
-🌐 Live Demo
-
-  You can play the game online here:➡️ RushHour.infinityfreeapp.com
-  
-
 📂 Features
 
   Interactive, use the arrow keys to move the cars.
